@@ -1,15 +1,14 @@
-# ANOTAÇÕES DECOLA
-
- REQUISITOS PARA DECOLA
-  - Paleta de cores customizáveis pela empresa
-	- Perfil do RH:
-		° * TELA INICIAL = ENXERGA UM CURSO PARA FAZER *
-		° Lista de tipos de cursos a serem feitos
-		° Perguntas a serem feitas
-		° Nível de dificuldade por pergunta
-		° Adição de conteúdo externo
-		° Resumo das escolhas
-		° Simples
+<h1>REQUISITOS PARA DECOLA</h1>
+<ul class=lista>
+	<li class=lista__item>Paleta de cores customizáveis pela empresa</li>
+	<li class=lista__item>Perfil do RH:</li>
+	<ul><
+	<li class=lista__item>Tela Inicial = Criação de Curso</li>
+	<li class=lista__item>Lista de tipos de cursos a serem feitos</li>
+	<li class=lista__item>Perguntas a serem incluídas</li>
+	<li class=lista__item>Níveis de dificuldade por pergunta</li>
+	<li class=lista__item>Adição de conteúdo externo</li>
+	<li class=lista__item>Resumo das escolhas</li></ul>
 	- Perfil do Usuário:
 		° * TELA INICIAL = Tela de boas-vindas com atividades a fazer / o que tem de fazer *
 		° Tarefas a serem feitas
