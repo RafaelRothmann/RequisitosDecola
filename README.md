@@ -77,5 +77,7 @@
 	<li text_align=center>Permitir que empresas personalizem a paleta de cores da plataforma</li>
 	<li text_align=center>Permitir que o RH defina o tempo de acesso para os cursos</li>
 	<li text_align=center>Organizar o conteúdo dos cursos em três etapas: Institucional, Área e Função</li>
+	<li text_align=center>Limitar os tipos de arquivos a serem enviados para .pdf e .ppt (Verificar)</li>
+	<li text_align=center>Limitar o tamanho de arquivos a serem enviados para no máximo 5MG (Verificar)</li>
 </ul>
 </div>
