@@ -86,8 +86,8 @@
 <p align=center>USER STORIES</p>
 <ol>
 	<li text_align=center>EU COMO profissional do Recursos Humanos GOSTARIA DE criar novos cursos PARA QUE os colaboradores de minha empresa possam ter um onboarding eficiente.</li>
-	<li text_align=center>EU COMO profissional do Recursos Humanos GOSTARIA DE visualizar uma lista de cursosPARA QUE</li>
-	<li text_align=center></li>
-	<li text_align=center></li>	
+	<li text_align=center>EU COMO profissional do Recursos Humanos GOSTARIA DE visualizar uma lista de cursos disponíveis PARA QUE possa criar o curso com as atividades mais adequadas aos meus colaboradores.</li>
+	<li text_align=center>EU COMO profissional do Recursos Humanos GOSTARIA DE inserir perguntas nos cursos PARA QUE possa medir o conhecimento dos funcionários de forma efetiva.</li>
+	<li text_align=center>EU COMO profissional do Recursos Humanos GOSTARIA DE inserir atividades interativas nos cursos PARA QUE possa </li>	
 </ol>
 </div>
