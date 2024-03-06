@@ -80,4 +80,14 @@
 	<li text_align=center>Limitar os tipos de arquivos a serem enviados para .pdf e .ppt (Verificar)</li>
 	<li text_align=center>Limitar o tamanho de arquivos a serem enviados para no máximo 5MG (Verificar)</li>
 </ul>
+</div
+</div>
+<div style="margin-top: 20px">
+<p align=center>USER STORIES</p>
+<ol>
+	<li text_align=center>EU COMO profissional do Recursos Humanos GOSTARIA DE criar novos cursos PARA QUE os colaboradores de minha empresa possam ter um onboarding eficiente.</li>
+	<li text_align=center>EU COMO profissional do Recursos Humanos GOSTARIA DE visualizar uma lista de cursosPARA QUE</li>
+	<li text_align=center></li>
+	<li text_align=center></li>	
+</ol>
 </div>
