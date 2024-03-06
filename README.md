@@ -80,7 +80,6 @@
 	<li text_align=center>Limitar os tipos de arquivos a serem enviados para .pdf e .ppt (Verificar)</li>
 	<li text_align=center>Limitar o tamanho de arquivos a serem enviados para no máximo 5MG (Verificar)</li>
 </ul>
-</div
 </div>
 <div style="margin-top: 20px">
 <p align=center>USER STORIES</p>
@@ -88,6 +87,17 @@
 	<li text_align=center>EU COMO profissional do Recursos Humanos GOSTARIA DE criar novos cursos PARA QUE os colaboradores de minha empresa possam ter um onboarding eficiente.</li>
 	<li text_align=center>EU COMO profissional do Recursos Humanos GOSTARIA DE visualizar uma lista de cursos disponíveis PARA QUE possa criar o curso com as atividades mais adequadas aos meus colaboradores.</li>
 	<li text_align=center>EU COMO profissional do Recursos Humanos GOSTARIA DE inserir perguntas nos cursos PARA QUE possa medir o conhecimento dos funcionários de forma efetiva.</li>
-	<li text_align=center>EU COMO profissional do Recursos Humanos GOSTARIA DE inserir atividades interativas nos cursos PARA QUE possa </li>	
+	<li text_align=center>EU COMO profissional do Recursos Humanos GOSTARIA DE inserir atividades interativas nos cursos PARA QUE o colaborador possa se manter focado durante o aprendizado.</li>	
+	<li text_align=center>EU COMO profissional do Recursos Humanos GOSTARIA DE adicionar arquivos externos no website PARA QUE </li>
+	<li text_align=center>EU COMO profissional do Recursos Humanos GOSTARIA DE </li>
+</ol>
+</div>
+<div style="margin-top: 20px">
+<p align=center>USE CASE</p>
+<ol>
+	<li text_align=center>Teste
+		<p>Teste 1</p>
+		<p>Teste 2</p>
+	</li>
 </ol>
 </div>
