@@ -51,51 +51,62 @@
 <div style="margin-top: 20px">
 <p align=center>PERFIL RH</p>
 <ul>
-	<li text_align=center>Permitir que o RH crie novos cursos de treinamento</li>
-	<li text_align=center>Apresentar uma lista de tipos de cursos disponíveis para seleção</li>
-	<li text_align=center>Permitir a inclusão de perguntas nos cursos, com opção de múltipla escolha e verdadeiro/falso</li>
-	<li text_align=center>Possibilitar a visualização de níveis de dificuldade para as perguntas</li>
-	<li text_align=center>Permitir a adição de conteúdo externo aos cursos, como vídeos, documentos, links, etc</li>
-	<li text_align=center>Fornecer um resumo das escolhas feitas durante a criação do curso antes de finalizá-lo</li>
+	<li>Permitir que o RH crie novos cursos de treinamento</li>
+	<li>Apresentar uma lista de tipos de cursos disponíveis para seleção</li>
+	<li>Permitir a inclusão de perguntas nos cursos, com opção de múltipla escolha e verdadeiro/falso</li>
+	<li>Possibilitar a visualização de níveis de dificuldade para as perguntas</li>
+	<li>Permitir a adição de conteúdo externo aos cursos, como vídeos, documentos, links, etc</li>
+	<li>Fornecer um resumo das escolhas feitas durante a criação do curso antes de finalizá-lo</li>
+	<li>Permitir a criação de um adiministrador para o gerenciamento de novos usuários</li>
 </ul>
 </div>
 <div style="margin-top: 20px">
 <p align=center>PERFIL USUÁRIO</p>
 <ul>
-	<li text_align=center>Apresentar uma tela de boas-vindas com atividades a serem realizadas</li>
-	<li text_align=center>Mostrar as tarefas que o usuário precisa realizar, como assistir a vídeos ou responder questionários</li>
-	<li text_align=center>Permitir que o usuário acesse o fórum para tirar dúvidas e interagir com outros colaboradores</li>
-	<li text_align=center>Exibir a porcentagem de conclusão do curso para o usuário</li>
-	<li text_align=center>Fornecer feedback ao usuário após a conclusão de cada atividade ou curso</li>
+	<li>Apresentar uma tela de boas-vindas com atividades a serem realizadas</li>
+	<li>Mostrar as tarefas que o usuário precisa realizar, como assistir a vídeos ou responder questionários</li>
+	<li>Permitir que o usuário acesse o fórum para tirar dúvidas e interagir com outros colaboradores</li>
+	<li>Exibir a porcentagem de conclusão do curso para o usuário</li>
+	<li>Fornecer feedback ao usuário após a conclusão de cada atividade ou curso</li>
 </ul>
 </div>
 <div style="margin-top: 20px">
 <p align=center>GERAIS</p>
 <ul>
-	<li text_align=center>Permitir que usuários façam login na plataforma</li>
-	<li text_align=center>Diferenciar os níveis de acesso entre colaboradores e a equipe de R</li>
-	<li text_align=center>Permitir que empresas personalizem a paleta de cores da plataforma</li>
-	<li text_align=center>Permitir que o RH defina o tempo de acesso para os cursos</li>
-	<li text_align=center>Organizar o conteúdo dos cursos em três etapas: Institucional, Área e Função</li>
-	<li text_align=center>Limitar os tipos de arquivos a serem enviados para .pdf e .ppt (Verificar)</li>
-	<li text_align=center>Limitar o tamanho de arquivos a serem enviados para no máximo 5MG (Verificar)</li>
+	<li>Permitir que usuários façam login na plataforma</li>
+	<li>Diferenciar os níveis de acesso entre colaboradores e a equipe de R</li>
+	<li>Permitir que empresas personalizem a paleta de cores da plataforma</li>
+	<li>Permitir que o RH defina o tempo de acesso para os cursos</li>
+	<li>Organizar o conteúdo dos cursos em três etapas: Institucional, Área e Função</li>
+	<li>Limitar os tipos de arquivos a serem enviados para .pdf e .ppt (Verificar)</li>
+	<li>Limitar o tamanho de arquivos a serem enviados para no máximo 5MG (Verificar)</li>
+	<li>Realizar a verificação de login/senha para o acesso a conta</li>
+	<li>Permitir ao Adiministrador a criação de novos usuários.</li>
 </ul>
 </div>
 <div style="margin-top: 20px">
-<p align=center>USER STORIES</p>
+<h1>USER STORIES</h1>
+<h3 align=center>RH</h3>
 <ol>
-	<li text_align=center>EU COMO profissional do Recursos Humanos GOSTARIA DE criar novos cursos PARA QUE os colaboradores de minha empresa possam ter um onboarding eficiente.</li>
-	<li text_align=center>EU COMO profissional do Recursos Humanos GOSTARIA DE visualizar uma lista de cursos disponíveis PARA QUE possa criar o curso com as atividades mais adequadas aos meus colaboradores.</li>
-	<li text_align=center>EU COMO profissional do Recursos Humanos GOSTARIA DE inserir perguntas nos cursos PARA QUE possa medir o conhecimento dos funcionários de forma efetiva.</li>
-	<li text_align=center>EU COMO profissional do Recursos Humanos GOSTARIA DE inserir atividades interativas nos cursos PARA QUE o colaborador possa se manter focado durante o aprendizado.</li>	
-	<li text_align=center>EU COMO profissional do Recursos Humanos GOSTARIA DE adicionar arquivos externos no website PARA QUE </li>
-	<li text_align=center>EU COMO profissional do Recursos Humanos GOSTARIA DE </li>
+	<li>EU COMO profissional do Recursos Humanos GOSTARIA DE criar novos cursos PARA QUE os colaboradores de minha empresa possam ter um onboarding eficiente.</li>
+	<li>EU COMO profissional do Recursos Humanos GOSTARIA DE visualizar uma lista de cursos disponíveis PARA QUE possa criar o curso com as atividades mais adequadas aos meus colaboradores.</li>
+	<li>EU COMO profissional do Recursos Humanos GOSTARIA DE inserir perguntas nos cursos PARA QUE possa medir o conhecimento dos funcionários de forma efetiva.</li>
+	<li>EU COMO profissional do Recursos Humanos GOSTARIA DE inserir atividades interativas nos cursos PARA QUE o colaborador possa se manter focado durante o aprendizado.</li>	
+	<li>EU COMO profissional do Recursos Humanos GOSTARIA DE adicionar arquivos externos no website PARA QUE possa utilizar conteúdos já prontos.</li>
+	<li>EU COMO profissional do Recursos Humanos GOSTARIA DE visualizar o resumo das minhas escolhas PARA QUE consiga verificar minhas escolhas.</li>
+	<li>EU COMO profissional do Recursos Humanos GOSTARIA DE criar um perfil de adiministrador PARA QUE </li>
 </ol>
-</div>
-<div style="margin-top: 20px">
-<p align=center>USE CASE</p>
+<h3 align=center>Colaboradores</h3>
 <ol>
-	<li text_align=center>Teste
+	<li>EU COMO colaborador da empresa GOSTARIA DE  PARA QUE </li>
+	<li>EU COMO colaborador da empresa GOSTARIA DE  PARA QUE </li>
+	<li>EU COMO colaborador da empresa GOSTARIA DE  PARA QUE </li>
+	<li>EU COMO colaborador da empresa GOSTARIA DE  PARA QUE </li>
+</ol>
+<div style="margin-top: 20px">
+<h1>USE CASE</h1>
+<ol>
+	<li>Teste
 		<p>Teste 1</p>
 		<p>Teste 2</p>
 	</li>
