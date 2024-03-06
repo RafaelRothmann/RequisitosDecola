@@ -94,14 +94,14 @@
 	<li>EU COMO profissional do Recursos Humanos GOSTARIA DE inserir atividades interativas nos cursos PARA QUE o colaborador possa se manter focado durante o aprendizado.</li>	
 	<li>EU COMO profissional do Recursos Humanos GOSTARIA DE adicionar arquivos externos no website PARA QUE possa utilizar conteúdos já prontos.</li>
 	<li>EU COMO profissional do Recursos Humanos GOSTARIA DE visualizar o resumo das minhas escolhas PARA QUE consiga verificar minhas escolhas.</li>
-	<li>EU COMO profissional do Recursos Humanos GOSTARIA DE criar um perfil de adiministrador PARA QUE </li>
+	<li>EU COMO profissional do Recursos Humanos GOSTARIA DE criar um perfil de adiministrador PARA QUE possa criar novas contas.</li>
 </ol>
 <h3 align=center>Colaboradores</h3>
 <ol>
 	<li>EU COMO colaborador da empresa GOSTARIA DE  PARA QUE </li>
 	<li>EU COMO colaborador da empresa GOSTARIA DE  PARA QUE </li>
 	<li>EU COMO colaborador da empresa GOSTARIA DE  PARA QUE </li>
-	<li>EU COMO colaborador da empresa GOSTARIA DE  PARA QUE </li>
+	<li>EU COMO colaborador da empresa GOSTARIA DE fornecer feedback após a finalização do curso PARA QUE a qualidade de cursos futuros possam melhorar.</li>
 </ol>
 <div style="margin-top: 20px">
 <h1>USE CASE</h1>
