@@ -98,10 +98,11 @@
 </ol>
 <h3 align=center>Colaboradores</h3>
 <ol>
-	<li>EU COMO colaborador da empresa GOSTARIA DE  PARA QUE </li>
-	<li>EU COMO colaborador da empresa GOSTARIA DE  PARA QUE </li>
-	<li>EU COMO colaborador da empresa GOSTARIA DE  PARA QUE </li>
+	<li>EU COMO colaborador da empresa GOSTARIA DE ver a porcentagem para a conclusão dos treinamentos que estão em andamento PARA QUE eu possa saber quando iriei terminar os treinamentos que comecei</li>
+	<li>EU COMO colaborador da empresa GOSTARIA DE poder acessar um fórum de dúvidas PARA QUE eu possa tirar as minhas dúvidas e interagir com outros colaboradores ou com profissionais do Recursos Humanos</li>
+	<li>EU COMO colaborador da empresa GOSTARIA DE acessar uma tela de boas-vindas PARA QUE eu possa ter um acesso rápido a atividade a serem realizadas, a avisos da equipe de recursos humanos ou novidades da empresa</li>
 	<li>EU COMO colaborador da empresa GOSTARIA DE fornecer feedback após a finalização do curso PARA QUE a qualidade de cursos futuros possam melhorar.</li>
+	<li>EU COMO colaborador da empresa GOSTARIA DE </li>
 </ol>
 <div style="margin-top: 20px">
 <h1>USE CASE</h1>
